@@ -1,3 +1,4 @@
 two
 one
 zero
+mines one
