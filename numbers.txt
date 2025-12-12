@@ -1,4 +1,9 @@
 one
 three
 five
+<<<<<<< HEAD
 seven
+=======
+zero
+mines one
+>>>>>>> ea3158b5e204846ee3af601b1ac24b87d3b9fd93
